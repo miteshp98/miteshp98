@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miteshp98
+- <h1>👋 Hi, I’m Mitesh Panchal</h1>
 - 👀 I’m interested in learning and working with community , open source contribution and give back to the community.
 - 🎓 I have completed a variety of courses on Linux, AWS, Docker, Ansible, JSON, and YAML. These courses have given me a solid understanding of the concepts and technologies Involved.
 - 🌱 Even I’m Still learning New Tools Like Mysql, MongoDB, Kubernetes, Some Promgramming Language like Python.
@@ -9,7 +9,7 @@
 
 
 
-💻 MY SKILL SET :  
+<a>💻 MY SKILL SET :- </a>  
 
 
 
