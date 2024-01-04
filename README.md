@@ -1,30 +1,53 @@
-- <h1>👋 Hi, I’m Mitesh Panchal</h1>
-- 👀 I’m interested in learning and working with community , open source contribution and give back to the community.
-- 🎓 I have completed a variety of courses on Linux, AWS, Docker, Ansible, JSON, and YAML. These courses have given me a solid understanding of the concepts and technologies Involved.
-- 🌱 Even I’m Still learning New Tools Like Mysql, MongoDB, Kubernetes, Some Promgramming Language like Python.
-- 🌱 I am eager to learn and grow, and I am confident that I can make a valuable contribution to This IT Infrastructure.
-- 🌟 I am looking for an Opportunity to Learn And Grow My Skills.
-- 📧 Reach Out me at Miteshpanchal3D@Gmail.com
-- 💞️ I’m looking to collaborate on GitHub and open source projects related to My Skills.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mitesh-panchal-356558126/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+   <a href="https://www.instagram.com/_mitesh_p/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=miteshp98&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjd3a2JzbnVpeXE1bjR4a3JtaGU2cGZqNXZ4cmk5MmN0OHk2YzA5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" width="400"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+ I'm a self-taught frontend web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  passionate about creating engaging and user-friendly digital experiences. With a strong foundation in HTML, CSS, and JavaScript, I enjoy turning design concepts into responsive and dynamic websites.
+
+#### 💼 What I Do:
+- **Frontend Development:** Crafting intuitive and visually appealing user interfaces.
+- **Responsive Design:** Ensuring seamless experiences across various devices and screen sizes.
+- **Web Accessibility:** Committed to making the web accessible to everyone.
+
+#### 🚀 Tech Stack:
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React
+- **Tools:** VS Code, Git, GitHub
 
 
+Feel free to explore my repositories and projects. I'm open to collaboration and always excited to learn something new!
 
-<H2>💻 MY SKILL SET :- </H2>  
-<h3>Software/Tools:-</h3>
+Happy coding! 🚀
 
- ![aws_logo](https://github.com/miteshp98/miteshp98/assets/145320555/4ba4fc4c-52ef-4c12-8995-f7002d01289b) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Linux](https://github.com/miteshp98/miteshp98/assets/145320555/72b8942d-77d4-4fab-9180-d00e6f5b4810)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- ![Ansible1](https://github.com/miteshp98/miteshp98/assets/145320555/614c387c-7293-4c76-8256-c0fad9548dd4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Yml](https://github.com/miteshp98/miteshp98/assets/145320555/0dfb9b20-518e-4977-abde-d85861039daa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Json01](https://github.com/miteshp98/miteshp98/assets/145320555/815123d1-1de1-4121-afdc-e201eee821f9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>![Git](https://github.com/miteshp98/miteshp98/assets/145320555/e73902ba-ea99-41ce-b3ec-1920622ef7ae)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Mysql](https://github.com/miteshp98/miteshp98/assets/145320555/41736ddf-7bb4-4b72-b56c-e154516cd2dc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Bash_Logo_Colored svg (1)](https://github.com/miteshp98/miteshp98/assets/145320555/b4cb6381-5f4e-4fba-b785-5379c389c665)</p>
+### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miteshp98&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
-
-[![GitHub stars](https://img.shields.io/github/stars/miteshp98/DavidColt_Resume)](https://github.com/miteshp98/DavidColt_Resume)
-
-
-
- 
-<!---
-miteshp98/miteshp98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miteshp98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
