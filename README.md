@@ -19,6 +19,8 @@
 
 
 
+[![GitHub stars](https://img.shields.io/github/stars/miteshp98/DavidColt_Resume)](https://github.com/miteshp98/DavidColt_Resume)
+
 
 
  
