@@ -38,7 +38,7 @@
 
 #### 🚀 Tech Stack:
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React
+- **Frameworks/Libraries:** Bootstrap,TailwindCss
 - **Tools:** VS Code, Git, GitHub
 
 
