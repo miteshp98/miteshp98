@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 
- I'm a self-taught frontend web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  passionate about creating engaging and user-friendly digital experiences. With a strong foundation in HTML, CSS, and JavaScript, I enjoy turning design concepts into responsive and dynamic websites.
+Frontend Developer skilled in HTML, CSS, JavaScript, React, SASS, Bootstrap, and TailwindCSS, with a strong eye for design and problem-solving. Experienced in building responsive and user-friendly web applications.
 
 #### 💼 What I Do:
 - **Frontend Development:** Crafting intuitive and visually appealing user interfaces.
@@ -38,8 +38,8 @@
 
 #### 🚀 Tech Stack:
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** Bootstrap,TailwindCss
-- **Tools:** VS Code, Git, GitHub
+- **Frameworks/Libraries:** Bootstrap, TailwindCss, GSAP, React
+- **Tools:** VS Code, Git, GitHub , Firabse , Contentful(CMS), DatoCMS
 
 
 Feel free to explore my repositories and projects. I'm open to collaboration and always excited to learn something new!
